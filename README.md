@@ -2,7 +2,7 @@
 
 ----
 ## 1. Introduction
-**Welcome to Blue Charm Beacons' SDK library for our Blue Charm KBeacon devices on GitHub. At the time of this upload, our KBeacon devices include the BC011 Multi-Beacon and BC021 Multi-Beacon with Accelerometer, but we may add others later.** 
+**Welcome to Blue Charm Beacons' SDK library for our Blue Charm KBeacon devices on GitHub. At the time of this upload, our line of "KBeacon" devices include the BC011 Multi-Beacon and BC021 Multi-Beacon with Accelerometer, but we may add others later.** 
 
 Herein, you can find the latest in directory:   
 ./kbeaconlib.framework  
