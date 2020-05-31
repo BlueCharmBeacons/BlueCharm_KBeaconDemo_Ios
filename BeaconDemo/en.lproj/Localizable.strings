@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  KBeaconDemo
+
+  Created by kkm on 2018/12/10.
+  Copyright © 2018 kkm. All rights reserved.
+*/
+"ERR_TITLE"="Error";
+"ACTION_START_SCAN"="Scan";
+"ACTION_STOP_SCAN"="Stop";
+
+"SUCC_TITLE"="Success";
+"DLG_OK"="Ok";
+"ERR_BLE_FUNC_OFF"="Ble function is not enable on your phone.";
+"ERR_JSON_FILE_INVALID"="Json file not suitable for this ESL device.";
+"ERR_JSON_FILE_SUCCESS"="Save Json file success.";
+"PUSH_TO_RELEASE" = "Pull to refresh";
+"ACTION_REFRESHING"="Refreshing";
+
+"BEACON_CONNECT" = "Connect";
+"BEACON_DISCONNECT" = "Disconnect";
+
